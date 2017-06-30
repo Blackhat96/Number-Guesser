@@ -1,6 +1,6 @@
 # Number-Guesser
 
-Java game to guess random numbers in the given range.
+**Note: Database table have to be created**
 
 **Softwares used**
 1.Eclipse
